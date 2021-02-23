@@ -1,4 +1,4 @@
-package assignment;
+package assignment1;
 
 //Write a program to display Greetings in three lines.
 public class Quest1 {

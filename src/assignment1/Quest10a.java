@@ -1,6 +1,4 @@
-package assignment;
-
-import java.util.Scanner;
+package assignment1;
 
 //Write a Program for the following Mathematical Function.
 public class Quest10a {

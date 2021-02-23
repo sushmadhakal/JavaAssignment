@@ -1,4 +1,4 @@
-package assignment;
+package assignment1;
 
 public class Quest2 {
     public static void main(String[] args) {

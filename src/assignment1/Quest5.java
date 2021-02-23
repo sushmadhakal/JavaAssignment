@@ -1,4 +1,4 @@
-package assignment;
+package assignment1;
 
 //Write a program to find the area of a circle, rectangle, and triangle.
 public class Quest5 {

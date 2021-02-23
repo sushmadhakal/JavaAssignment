@@ -1,4 +1,4 @@
-package assignment;
+package assignment1;
 
 //Write a program to convert Fahrenheit to Celsius and Celsius to Fahrenheit.
 public class Quest8 {

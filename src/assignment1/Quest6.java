@@ -1,4 +1,4 @@
-package assignment;
+package assignment1;
 
 //Write a program to find the perimeter of a circle, triangle, and rectangle.
 public class Quest6 {
