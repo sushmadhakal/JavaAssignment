@@ -10,10 +10,13 @@ public class Quest15 {
         System.out.println("Enter an ASCII code between 0 -128: ");
         int code = input.nextInt();
 
-        char output = (char) code;
+        if (code > 0 && code < 128) {
+            char output = (char) code;
 
-        System.out.println("Input: " +code);
-        System.out.println("Output: " +output);
-
+            System.out.println("Input: " + code);
+            System.out.println("Output: " + output);
+        } else {
+            System.out.println("Enter a numebr between 0 to 128: ");
+        }
     }
 }
