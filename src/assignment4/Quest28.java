@@ -18,7 +18,6 @@ public class Quest28 {
                 break;
             }
         }
-
         if (!flag)
             System.out.println(num + " is a prime number.");
         else
@@ -34,5 +33,4 @@ public class Quest28 {
         object.isPrimenumber(number);
 
     }
-
 }
