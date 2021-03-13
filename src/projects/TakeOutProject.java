@@ -30,7 +30,7 @@ public class TakeOutProject {
         System.out.println("3. Barbecue Tray: Feeds 10 - 26.99");
     }
     public static int determineTrays(int people, int feeds){
-        int trays = (int) Math.ceil(people/feeds);
+        int trays = (int) Math.floor(people/feeds);
         System.out.println("You need "+trays+" trays");
         return trays;
     }
