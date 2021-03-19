@@ -3,7 +3,6 @@ package assignment5;
 //Write a Program to perform for the following task.
 public class Quest37 {
     public static void main(String[] args) {
-
         int [][] arr1 = {{1,2,3},{4,5,6},{7,8,9}};
         int [][] arr2 ={{4,5,6},{2,7,8},{3,1,9}};
 
