@@ -15,5 +15,6 @@ public class Quest10c {
         double x = (- b + Math.sqrt((b * b) - (4 * a* c)))/(2 * a);
         System.out.println("X = ");
         System.out.println(x);
+        System.out.println("Quadratic Formula = " +x);
     }
 }
