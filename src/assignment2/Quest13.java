@@ -12,7 +12,7 @@ public class Quest13 {
         if(num < 0){
             System.out.println("You entered: "+num);
         }
-        System.out.println("============");
+        System.out.println("This is a negative number");
 
     }
 }

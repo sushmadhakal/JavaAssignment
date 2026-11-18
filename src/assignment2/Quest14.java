@@ -19,6 +19,7 @@ public class Quest14 {
         else{
             System.out.println("b is greater than a.");
         }
+        System.out.println("Branch 2 changes");
 
     }
 }
