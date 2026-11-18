@@ -6,6 +6,7 @@ public class Quest1 {
         System.out.println("Hello!");
         System.out.println("How are you?");
         System.out.println("Nice to meet you.");
+        System.out.println("Hello from branch 1");
         System.out.println("Hello from branch2");
     }
 }
