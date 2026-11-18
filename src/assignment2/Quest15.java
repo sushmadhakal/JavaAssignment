@@ -18,6 +18,7 @@ public class Quest15 {
         } else {
             System.out.println("Enter a numebr between 0 to 128: ");
             System.out.println("Branch 1 changes");
+            System.out.println("Branch 2 changes");
         }
     }
 }
